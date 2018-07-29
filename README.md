@@ -3,7 +3,22 @@ Created by [Zhenxing Qian](http://www.qianzhenxing.com/), [Hang Zhou](http://hom
 
 Introduction
 --
-This work is published on Transactions on Dependable and Secure Computing, 2016. 
+This work is published on Transactions on Dependable and Secure Computing (TDSC), 2016. 
+
+We first propose a JPEG encryption algorithm, which  enciphers an image to a smaller size and keeps the format compliant to JPEG decoder. It outperforms a previous work in terms of separation capability, embedding capacity and security.
+
+Citation
+--
+If you find our work useful in your research, please consider citing:
+
+    @article{qian2016separable,
+       title={Separable reversible data hiding in encrypted JPEG bitstreams},
+       author={Qian, Zhenxing and Zhou, Hang and Zhang, Xinpeng and Zhang, Weiming},
+       journal={IEEE Transactions on Dependable and Secure Computing},
+       year={2016},
+       publisher={IEEE}
+    }
+
 
 * To run the example code: 
 1. Put source JPEG images in the "images\test_images" directory.
