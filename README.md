@@ -19,10 +19,13 @@ If you find our work useful in your research, please consider citing:
        publisher={IEEE}
     }
 
+Usage
+--
 
-* To run the example code: 
-1. Put source JPEG images in the "images\test_images" directory.
-2. Download 'jpeg_toolbox' and compile jpeg_read.m and jpeg_write.m.
-3. Start from main.m
 
-For any problems with the code, please contact me @ zh2991@mail.ustc.edu.cn
+    Put source JPEG images in the "images\test_images" directory.
+    Download 'jpeg_toolbox' and compile jpeg_read.m and jpeg_write.m.
+    Start from main.m
+
+License
+--
