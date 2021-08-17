@@ -7,6 +7,14 @@ This work is published on Transactions on Dependable and Secure Computing (TDSC)
 
 We first propose a JPEG encryption algorithm, which  enciphers an image to a smaller size and keeps the format compliant to JPEG decoder. It outperforms a previous work in terms of separation capability, embedding capacity and security.
 
+Usage
+--
+
+
+    Put source JPEG images in the "images\test_images" directory.
+    Download 'jpeg_toolbox' and compile jpeg_read.m and jpeg_write.m.
+    Start from main.m
+
 Citation
 --
 If you find our work useful in your research, please consider citing:
@@ -18,14 +26,7 @@ If you find our work useful in your research, please consider citing:
        year={2016},
        publisher={IEEE}
     }
-
-Usage
---
-
-
-    Put source JPEG images in the "images\test_images" directory.
-    Download 'jpeg_toolbox' and compile jpeg_read.m and jpeg_write.m.
-    Start from main.m
-
+    
+    
 License
 --
