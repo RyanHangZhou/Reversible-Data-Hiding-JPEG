@@ -1,5 +1,5 @@
 # Separable Reversible Data Hiding in Encrypted JPEG Bitstream
-Created by [Zhenxing Qian](http://www.qianzhenxing.com/), [Hang Zhou](http://home.ustc.edu.cn/~zh2991/), [Xinpeng Zhang](http://www.ci.shu.edu.cn/zhangxp.htm), [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/index.html).
+Created by [Zhenxing Qian](https://scholar.google.com/citations?user=90AsMtQAAAAJ&hl=en), [Hang Zhou](http://www.sfu.ca/~hza162/), [Xinpeng Zhang](https://scholar.google.com/citations?user=P76GtHwAAAAJ&hl=en), [Weiming Zhang](https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en).
 
 Introduction
 --
